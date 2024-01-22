@@ -1,0 +1,11 @@
+.f {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    background: linear-gradient(to right, red 0%, red 50%, orange 50%, orange 100%);
+}
+.b {
+    display: flex;
+    justify-content: space-around;
+    background: linear-gradient(to right, purple 0%, purple 35%, rgb(0, 255, 242) 35%, rgb(0, 255, 242) 65%, green 0%, green 35%);
+}
